@@ -4,3 +4,9 @@ __pycache__
 .claude
 .github
 .vscode
+.python-version
+uv.lock
+pyproject.toml
+README.md
+.idea/.gitignore
+.idea
